@@ -1,2 +1,2 @@
-# Spring-GraphQL
-Project which consists of Sprint Boot App with GraphQL Integration
+# Spring-Boot-GraphQL
+GraphQL is a relatively new concept from Facebook that is billed as an alternative to REST for Web APIs
